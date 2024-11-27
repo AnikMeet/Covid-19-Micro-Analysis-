@@ -9,6 +9,7 @@ The project begins by loading the dataset using the Pandas library, revealing it
 
 # Null Values and Heatmap
 
+![287527302-8f8750f9-f391-4440-9359-fb8cff6af2ac](https://github.com/user-attachments/assets/68ee1976-cc71-4b9e-a12f-e9f1db7aeb89)
 
 
 A detailed examination of null values is conducted, revealing that the "State" column has a significant number of missing values (181). A heatmap visualization is employed to provide a clear representation of the distribution of null values in the dataset.
